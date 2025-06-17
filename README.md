@@ -1,4 +1,4 @@
-Linux
+# Linux
 
 ### Домашнее задание Linux 1 (VirtualBox + Vagrant)
 * Установка VirtualBox + Ubuntu 22.04 на виртуальную машину (создаём «компьютер внутри компьютера»).
